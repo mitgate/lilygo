@@ -1,2 +1,2 @@
 # lilygo
-Build Lilygo T-PicoC3
+Build Lilygo T-PicoC3 Raspberry Pi
